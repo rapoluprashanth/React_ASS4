@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Product 1",
+      "quantity": 10,
+      "price": 100
+    },
+    {
+      "id": "2",
+      "productName": "Product 2",
+      "quantity": 20,
+      "price": 200
+    },
+    {
+      "id": "tX5fO6TUM5",
+      "productName": "Product 3",
+      "quantity": "20",
+      "price": "500"
+    },
+    {
+      "id": "tn5-Not3Rv",
+      "productName": "Product 4",
+      "quantity": "200",
+      "price": "5000"
+    }
+  ]
+}
